@@ -18,9 +18,7 @@ If you don't have `git` installed on your machine, follow these steps:
    - Click on `Code` and then `Download ZIP`.
    - Extract the `.zip` file to a location of your choice.
 
-<br>
 **OR**
-</br>
 
 1. **Using Git**
    - Open a terminal or command prompt.
