@@ -1,0 +1,27 @@
+<div class="grid">
+    <span id="data" class="container card">
+        <span class="title">Welcome to X Labs</span>
+        <span class="content">
+            <p>Welcome to the new X Labs launcher! 🥳<br><br>The launcher is still a work-in-progress. <br>But once it is complete, it will unify all games in one place.</p>
+        </span>
+    </span>
+
+    <img id="splash" class="container" src="./img/splash-1.png" />
+</div>
+
+<style>
+    #content>.grid {
+        display: flex;
+        width: 100%;
+    }
+
+    #data {
+        flex: 1 1 auto;
+    }
+
+    #splash {
+        flex: 0 1 auto;
+        height: calc(100% - 30px);
+        /* This is still a bug :( */
+    }
+</style>
