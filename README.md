@@ -2,6 +2,7 @@
 
 [![patreon](https://img.shields.io/badge/patreon-support-blue.svg?logo=patreon)](https://www.patreon.com/xlabsproject)
 [![discord](https://img.shields.io/endpoint?url=https://momo5502.com/iw4x/members-badge.php)](https://discord.gg/sKeVmR3)
+[![website](https://img.shields.io/badge/Repackers-_Website-blue)](https://rimmyscorner.com/)
 
 <p align="center">
   <img src="assets/github/banner-s1x.png?raw=true" />
@@ -54,3 +55,10 @@ Clone the Git repo. Do NOT download it as ZIP, that won't work.
     > **Note**: On Windows, press `Win + R`, type `%localappdata%`, click ok.
 2. Extract `IW4XLauncher.exe` and run it.
 3. Select the proper game path for your game(s) of choice and launch.
+
+## Disclaimer
+
+This software has been created purely for the purposes of
+academic research. It is not intended to be used to attack
+other systems. Project maintainers are not responsible or
+liable for misuse of the software. Use responsibly.
