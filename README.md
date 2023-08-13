@@ -30,7 +30,7 @@ Clone the Git repo. Do NOT download it as ZIP, that won't work.
    - Open a terminal or command prompt.
    - Run the following command:
      ```
-     git clone https://github.com/Ahrimdon/test-repo.git
+     git clone https://github.com/Ahrimdon/xlabs.git
      ```
 
 ## Repository Contents
