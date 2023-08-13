@@ -1,2 +1,1 @@
-localappdata/xlabs/data/cef/release/libcef.dll filter=lfs diff=lfs merge=lfs -text
 launcher/localappdata/xlabs/data/cef/release/libcef.dll filter=lfs diff=lfs merge=lfs -text
