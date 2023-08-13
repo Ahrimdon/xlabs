@@ -17,12 +17,12 @@ If you don't have `git` installed on your machine, follow these steps:
 1. **Direct Download**
    - Click on `Code` and then `Download ZIP`.
    - Extract the `.zip` file to a location of your choice.
-   - 
+
 <br>
 **OR**
 <br>
 
-2. **Using Git**
+1. **Using Git**
    - Open a terminal or command prompt.
    - Run the following command:
      ```
