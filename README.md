@@ -20,7 +20,7 @@ If you don't have `git` installed on your machine, follow these steps:
 
 <br>
 **OR**
-<br>
+</br>
 
 1. **Using Git**
    - Open a terminal or command prompt.
